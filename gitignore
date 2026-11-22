@@ -1,0 +1,21 @@
+# Database lokal
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node-RED / Node
+node_modules/
+flows_cred.json
+.config.*.json
+.sessions.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
